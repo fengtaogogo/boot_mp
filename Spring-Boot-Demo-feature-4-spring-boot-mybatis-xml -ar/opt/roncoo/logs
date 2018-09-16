@@ -1,0 +1,6 @@
+2018-08-04 12:06:34.860 |-DEBUG [http-nio-8081-exec-1] com.example.mapper.EmployeeMapper.insert [159] -| ==>  Preparing: INSERT INTO tbl_employee ( last_name, email, gender, age ) VALUES ( ?, ?, ?, ? ) 
+2018-08-04 12:06:34.926 |-DEBUG [http-nio-8081-exec-1] com.example.mapper.EmployeeMapper.insert [159] -| ==> Parameters: MP(String), mp@atguigu.com(String), 1(Integer), 22(Integer)
+2018-08-04 12:06:35.033 |-DEBUG [http-nio-8081-exec-1] com.example.mapper.EmployeeMapper.insert [159] -| <==    Updates: 1
+2018-08-04 12:07:11.813 |-DEBUG [http-nio-8081-exec-1] com.example.mapper.EmployeeMapper.insert [159] -| ==>  Preparing: INSERT INTO tbl_employee ( last_name, email, gender, age ) VALUES ( ?, ?, ?, ? ) 
+2018-08-04 12:07:11.844 |-DEBUG [http-nio-8081-exec-1] com.example.mapper.EmployeeMapper.insert [159] -| ==> Parameters: MP(String), mp@atguigu.com(String), 1(Integer), 22(Integer)
+2018-08-04 12:07:13.041 |-DEBUG [http-nio-8081-exec-1] com.example.mapper.EmployeeMapper.insert [159] -| <==    Updates: 1
